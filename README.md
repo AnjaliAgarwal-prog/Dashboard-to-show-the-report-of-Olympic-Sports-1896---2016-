@@ -12,5 +12,6 @@ Then, Count of Medals by Medal Type via Stacked Column Chart and Count of Medals
 A Slicer to select the year/years for which we want to represent the data And a Action Button "Age Wise" to go to Page2.
 In Page2:  I represent the percentage of medals won by different age category (Age:10 -30 ,31-50,51-70,71-100).
 Again, A Slicer to select the year/years for which we want to represent the data And a Action Button "Home Page" to go to Page1.
+https://github.com/AnjaliAgarwal-prog/Dashboard-to-show-the-report-of-Olympic-Sports-1896---2016-/blob/main/Screenshot_olympic_sports_1.png
 
 https://github.com/AnjaliAgarwal-prog/Dashboard-to-show-the-report-of-Olympic-Sports-1896---2016-/blob/main/Screenshot_olympic_sports_2.png
